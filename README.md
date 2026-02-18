@@ -64,4 +64,4 @@ Le projet suit une **architecture modulaire** :
 
 ## 🔄 Version R
 
-Une version équivalente de ce projet existe en R : [jeux-console-r](https://github.com/VicoKev/jeux-console-r)
+Une version équivalente de ce projet existe en R : [r-guess-hangman](https://github.com/VicoKev/r-guess-hangman)
